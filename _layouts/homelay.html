@@ -2,29 +2,24 @@
 layout: default
 ---
 
-<div class="container mt-4">
+<div class="container" style="max-width: 1100px; margin-top: 40px;">
   <div class="row">
     <!-- 左边内容区域 -->
     <div class="col-md-8">
       {{ content }}
     </div>
 
-    <!-- 右边侧栏区域 -->
+    <!-- 右边 News 卡片样式 -->
     <div class="col-md-4">
-      <!-- Lab News 区块 -->
-      <div class="card mt-4">
-        <div class="card-body">
-          <h5 class="card-title">Lab News</h5>
-          {% for item in site.data.news limit:5 %}
-            <div class="mb-2">
-              <strong>{{ item.date }}</strong><br />
-              {{ item.title }}
-            </div>
-          {% endfor %}
-        </div>
+      <div class="card mt-4 shadow-sm" style="border: 1px solid #eee; padding: 15px; background-color: #f9f9f9;">
+        <h5 style="margin-top: 0;">🗞️ Lab News</h5>
+        {% for item in site.data.news limit:5 %}
+          <div class="mb-3">
+            <strong>{{ item.date }}</strong><br />
+            {{ item.title }}
+          </div>
+        {% endfor %}
       </div>
-
-      <!-- 其他 sidebar 元素可以放在这里 -->
     </div>
   </div>
 </div>
