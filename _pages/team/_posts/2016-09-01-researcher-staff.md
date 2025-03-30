@@ -1,18 +1,18 @@
 ---
 layout: member
 category: staff
-title: Researcher Name
+title: Xiang Li
 image: researcher.png
 role: Lab Director
 permalink: 'team/researcher-name'
 social:
-    twitter: https://twitter.com/
+    twitter: https://x.com/XiangHCI/
     linkedin: https://www.linkedin.com/
-    google-scholar: https://scholar.google.fr/
+    google-scholar: https://scholar.google.com/citations?user=HDQU65AAAAAJ&hl=en/
     github: https://github.com/
     website:
-    orcid: https://orcid.org/
-    research-gate: https://www.researchgate.net/
+    orcid: https://www.xiang-li.phd/
+    research-gate: https://www.researchgate.net/profile/Xiang-Li-241?ev=hdr_xprf
 education:
  - Education
 ---
