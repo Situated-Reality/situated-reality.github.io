@@ -1,13 +1,29 @@
 ---
 title: "Home"
 layout: homelay
-excerpt: "RT2 Lab at Institut Curie"
+excerpt: "SiRL: Situated Reality Lab"
 sitemap: false
 permalink: /
 ---
 
 ### About the Lab
 
-Mauris vitae ultricies leo integer malesuada. Vulputate ut pharetra sit amet aliquam id diam maecenas. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus. Et tortor at risus viverra adipiscing at in. Urna nunc id cursus metus aliquam eleifend. Massa tincidunt dui ut ornare lectus. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Enim diam vulputate ut pharetra sit. Facilisi cras fermentum odio eu feugiat pretium. Commodo elit at imperdiet dui accumsan sit amet nulla. Volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque. Vivamus at augue eget arcu dictum varius duis. Faucibus pulvinar elementum integer enim neque volutpat. Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
+Welcome to the **Situated Reality Lab**, where we explore the frontiers of interactive technologies that are grounded in the richness of human experience and real-world contexts.
 
-Cras adipiscing enim eu turpis. Imperdiet massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Sed lectus vestibulum mattis ullamcorper velit. Ut faucibus pulvinar elementum integer. Mattis nunc sed blandit libero volutpat sed cras ornare. Diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Risus nullam eget felis eget nunc lobortis mattis. In tellus integer feugiat scelerisque varius morbi enim. Eget nunc lobortis mattis aliquam faucibus purus in. Ut pharetra sit amet aliquam id diam maecenas ultricies mi. Augue neque gravida in fermentum et sollicitudin ac orci. Id donec ultrices tincidunt arcu non. Pharetra et ultrices neque ornare aenean euismod. Purus faucibus ornare suspendisse sed. Nibh tellus molestie nunc non blandit massa enim. Non diam phasellus vestibulum lorem sed risus. Vel eros donec ac odio tempor orci dapibus ultrices in. Libero id faucibus nisl tincidunt.
+Our research lies at the intersection of **Human-Computer Interaction (HCI)**, **Mixed Reality (MR)**, and **Artificial Intelligence (AI)**. We investigate how technology can be meaningfully embedded in the world around us, supporting new forms of interaction, perception, and collaboration.
+
+## Research Themes
+
+Our lab is currently focused on—but not limited to—the following directions:
+
+### 🔹 Body-Centric Interfaces
+We design and study novel **embodied interaction techniques** that enhance and extend human capabilities in **mixed reality**. By leveraging the body as an expressive, perceptual, and interactive medium, we aim to create interfaces that are intuitive, empowering, and deeply human.
+
+### 🔹 AI-Driven Context Awareness
+We explore how **artificial intelligence** can power **adaptive user interfaces** in **ubiquitous MR** environments. Our goal is to facilitate **seamless situated interaction** by sensing and responding to users' contexts, activities, and intentions in the flow of **everyday life**—also known as **spatial computing**.
+
+---
+
+Whether you're interested in embodied design, ubiquitous computing, spatial interaction, or AI-powered XR systems, we welcome collaboration and conversation.
+
+> Situated reality is not just about technology—it's about people, place, and the powerful interactions in between.
